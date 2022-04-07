@@ -16,6 +16,7 @@
   - UI design
 - 개발자로 살아남기 - 박종천
 - [w3 : 웹 표준화 기구](https://www.w3.org)
+- [수업 중 작성한 소스코드](https://www.notion.so/boggy/WEB1-02ef558eccfa492ababae5c2b614e836)
 
 
 ## 웹 페이지를 구성하는 기본적인 요소와 문법
